@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[ProductionBOMHeader]
+(
+	[No] NVARCHAR(20) NOT NULL PRIMARY KEY
+)

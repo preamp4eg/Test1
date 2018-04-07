@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Item]
+(
+	[No] NVARCHAR(20) NOT NULL PRIMARY KEY, 
+    [ProductionBOM_No] NVARCHAR(20) NULL
+)

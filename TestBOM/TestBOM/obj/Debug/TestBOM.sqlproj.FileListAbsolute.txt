@@ -1,0 +1,5 @@
+E:\Работа\TestBOM\TestBOM\TestBOM\bin\Debug\TestBOM.dacpac
+E:\Работа\TestBOM\TestBOM\TestBOM\obj\Debug\TestBOM.dll
+E:\Работа\TestBOM\TestBOM\TestBOM\obj\Debug\TestBOM.pdb
+E:\Работа\TestBOM\TestBOM\TestBOM\bin\Debug\TestBOM.dll
+E:\Работа\TestBOM\TestBOM\TestBOM\bin\Debug\TestBOM.pdb

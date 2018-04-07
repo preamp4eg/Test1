@@ -1,0 +1,6 @@
+E:\Работа\TestBOM\TestC\TestC\bin\Debug\TestC.exe.config
+E:\Работа\TestBOM\TestC\TestC\bin\Debug\TestC.exe
+E:\Работа\TestBOM\TestC\TestC\bin\Debug\TestC.pdb
+E:\Работа\TestBOM\TestC\TestC\obj\Debug\TestC.csprojResolveAssemblyReference.cache
+E:\Работа\TestBOM\TestC\TestC\obj\Debug\TestC.exe
+E:\Работа\TestBOM\TestC\TestC\obj\Debug\TestC.pdb

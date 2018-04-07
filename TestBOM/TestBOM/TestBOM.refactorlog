@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="07c74872-52ff-4395-9109-0df2226e75b7" ChangeDateTime="04/03/2018 18:44:50">
+    <Property Name="ElementName" Value="[dbo].[ProductionBOMLine].[Quant]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ProductionBOMLine]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Quantity" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f4bc2ee3-39ae-41d6-a762-2aec23f933fa" ChangeDateTime="04/03/2018 18:51:44">
+    <Property Name="ElementName" Value="[dbo].[FK_ProductionBOMLine_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[ProductionBOMLine]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_ProductionBOMLine_ProductionBOMHeader]" />
+  </Operation>
+</Operations>
