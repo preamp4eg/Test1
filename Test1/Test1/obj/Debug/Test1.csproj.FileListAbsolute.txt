@@ -1,0 +1,2 @@
+E:\Работа\TestBOM\Test1\Test1\bin\Debug\Test1.exe.config
+E:\Работа\TestBOM\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
