@@ -39,11 +39,7 @@ namespace transfer
 
         public void TranslateData(string csvFile, string dbfFile)
         {
-            if (args.Length == 2)
-            {
-                csvFile = args[0];
-                dbfFile = args[1];
-            }
+           
             convertFileInfo(ref csvFile);
             convertFileInfo(ref dbfFile);
             try
